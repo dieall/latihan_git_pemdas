@@ -1,0 +1,2 @@
+print ("Itenas")
+print ("Informatika")
